@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishit Chugh
-- 👀 I’m interested in Software Development and Graphic Design
-- 🌱 I’m currently learning HTML, CSS, JS and have already learnt Python and SQL.
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning ML and AI.
 - 📫 How to reach me: https://linktr.ee/rc101
 
 <!---
