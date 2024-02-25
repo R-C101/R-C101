@@ -1,43 +1,28 @@
-# Welcome to My GitHub Profile!
 
-Hello there! I'm a UG (Undergraduate) student, and I'm delighted to share my GitHub repositories with you. Here's a glimpse of what I do and what I'm interested in:
+# 💫 About Me:
+AI/ML Engineer, currently developing NLP solutions for startups to boost their sales. <br><br>and yes, I have all the bad qualities of an engineer and all the good qualities of a white blonde swiftie.
 
-## 1. sales-prediction (Public)
-In this repository, I've implemented basic regression using different models and compared their performance. You can explore the Jupyter Notebook to delve into the details of the models and their analysis.
 
-## 2. titanic-dataset-ML (Public)
-Here, I've tested several different machine learning models on the Titanic dataset and posted my solution on Kaggle. Take a look at the Jupyter Notebook to see how I approached the problem and evaluated the models.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizzitchugh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishit-chugh/) 
 
-## 3. java-basics (Public)
-In this repository, you'll find fundamental concepts of Java programming. It covers the basics and provides examples to help you grasp the concepts effectively.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=R-C101&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=R-C101&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-C101&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 4. Kaggle-Challenge-Jun25 (Public)
-I attempted a Kaggle challenge and documented my progress in this repository. The Jupyter Notebook showcases my approach and insights gained from the challenge.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=R-C101&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 5. Parking-Assist (Public)
-Here, I've developed a Parking Assist application using Yolov4, an object detection algorithm. The Python code in this repository assists drivers in parking their vehicles safely.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=R-C101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 6. Gauss-Seidel-Method-Python (Public)
-This repository contains a Python script that performs Gauss-Seidel iterations. The script is used to solve linear equations iteratively. Feel free to explore the Jupyter Notebook for implementation details and usage examples.
+---
+[![](https://visitcount.itsvg.in/api?id=R-C101&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## 7. React-Native-Beginner-Practice (Public)
-During my journey of learning React Native, I created practice files, which you can find in this repository. The TypeScript code offers insights into my early experiences with React Native development.
-
-## 8. AndrewNG-SupervisedML (Public)
-In this repository, I've compiled lab files and notes from AndrewNG's Machine Learning first course. The Jupyter Notebook contains exercises and implementations from the course.
-
-## 9. distance-estimation-yolov4 (Private)
-This repository focuses on distance estimation using Yolov4. As it is set to private, access is restricted to specific individuals.
-
-These are just a few of the repositories on my GitHub profile. I have explored diverse topics, ranging from machine learning and programming languages to web development and automation. Feel free to explore the repositories to gain a better understanding of my interests and skills.
-
-If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out to me. I'm always open to engaging with the GitHub community.
-
-Thank you for visiting my profile!
-
-Best regards,
-Rishit Chugh
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 R-C101/R-C101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
