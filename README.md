@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-AI/ML Engineer, currently developing NLP solutions for startups to boost their sales. <br><br>and yes, I have all the bad qualities of an engineer and all the good qualities of a white blonde swiftie.
+AI/ML Engineer, currently working to enhance safety of LLMs through redteaming efforts. <br><br>and yes, I have all the bad qualities of an engineer and all the good qualities of a white blonde swiftie.
 
 
 ## 🌐 Socials:
